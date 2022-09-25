@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Kamal</h1>
-<h3 align="center">A passionate backed engineer from Pakistan</h3>
+<h3 align="center">A passionate backend engineer from Pakistan</h3>
 
 - 🔭 I’m currently working on [Flare App!](https://tryflare.com/)
 
